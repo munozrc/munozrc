@@ -1,3 +1,1 @@
-### About Me
-   - 📚 I'm a student of computer engineering.
-   - 💻 I'm a frontend developer.
+Hello everyone and welcome to my main playground. Feel free to explore some of my projects.
